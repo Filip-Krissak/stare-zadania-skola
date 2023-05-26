@@ -21,3 +21,4 @@ def stvorec(suradnice):
 
         
 canvas.bind('<B1-Motion>',stvorec)
+canvas.mainloop()
